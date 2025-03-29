@@ -1,3 +1,3 @@
 # website
-This project is a clone of the Amazon homepage
+This project is a clone of the simple homepage
 author-Elvita
